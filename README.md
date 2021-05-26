@@ -27,7 +27,10 @@ to plot the ECG or simply your web browser.
 
 # This (forked) version adds
 
-PPG heart-rate detection with your device camera, just navigate to menu > ppg analysis
+PPG heart-rate detection with your device camera, just navigate to menu > ppg analysis.
+
+## Project Thesis
+To learn more about how the app works, check out the project thesis, [Thesis_PulseFinder](Thesis_PulseFinder.pdf).
 
 ## Features
 * Realtime PPG plot of Y[U]V data
